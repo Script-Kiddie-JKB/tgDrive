@@ -1,0 +1,9 @@
+aiohttp
+aiohttp-jinja2
+telethon
+cryptg
+pillow
+setuptools
+aiohttp_session[secure]
+python-dotenv
+requests
